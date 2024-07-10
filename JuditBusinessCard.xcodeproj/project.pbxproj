@@ -11,6 +11,7 @@
 		5A66D6D02C3E74A300089613 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A66D6CF2C3E74A300089613 /* ContentView.swift */; };
 		5A66D6D22C3E74A600089613 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A66D6D12C3E74A600089613 /* Assets.xcassets */; };
 		5A66D6D52C3E74A600089613 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 5A66D6D42C3E74A600089613 /* Preview Assets.xcassets */; };
+		5A66D6DC2C3E838500089613 /* InfoView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5A66D6DB2C3E838500089613 /* InfoView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +20,7 @@
 		5A66D6CF2C3E74A300089613 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		5A66D6D12C3E74A600089613 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		5A66D6D42C3E74A600089613 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		5A66D6DB2C3E838500089613 /* InfoView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = InfoView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +55,7 @@
 			children = (
 				5A66D6CD2C3E74A300089613 /* JuditBusinessCardApp.swift */,
 				5A66D6CF2C3E74A300089613 /* ContentView.swift */,
+				5A66D6DB2C3E838500089613 /* InfoView.swift */,
 				5A66D6D12C3E74A600089613 /* Assets.xcassets */,
 				5A66D6D32C3E74A600089613 /* Preview Content */,
 			);
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5A66D6D02C3E74A300089613 /* ContentView.swift in Sources */,
+				5A66D6DC2C3E838500089613 /* InfoView.swift in Sources */,
 				5A66D6CE2C3E74A300089613 /* JuditBusinessCardApp.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
